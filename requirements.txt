@@ -1,0 +1,13 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+nltk==3.5
+sacrebleu==1.4.14
+torch==1.6.0
+torchtext==0.7.0
+tqdm==4.51.0
